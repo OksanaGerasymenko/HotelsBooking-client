@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "b0e6e6c6-8c13-406f-8538-f17ab1fdde7c",
+        "dateFrom": "",
+        "dateTo": "",
+        "roomId": "f3872c7a-6df9-48f8-a13e-6c3a341a35a3",
+        "roomNumber": 205,
+        "userId": "246f6235-5880-4c76-8819-37242303af90",
+        "countGuests": 2,
+        "status": "active"
+    },
+    {
+        "_id": "5ce5145f-6b2f-42e8-8c9b-2a63cace8373",
+        "dateFrom": "",
+        "dateTo": "",
+        "roomId": "7b61ea01-4806-43e2-8f77-68c05a31d25a",
+        "roomNumber": 112,
+        "userId": "6e634ed1-b387-4f64-a509-55a92a22a324",
+        "countGuests": 4,
+        "status": "active"
+    }
+]

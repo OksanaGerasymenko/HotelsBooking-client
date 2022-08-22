@@ -1,13 +1,210 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'Caveat-SemiBold';
+  src: local('Caveat-SemiBold'), url("./fonts/Caveat-SemiBold.woff") format('woff');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrap {
+  background: rgb(216, 214, 211);
+  min-width: 760px;
+}
+.content {
+  min-height: calc(100vh - 50px);
+}
+footer {
+  height:50px;
+}
+.logo-img{
+  width:80px;
+  height:auto; 
+  border-radius: 10px;
+}
+.logo-brand{
+  font-family: "Caveat";
+  font-size: 20px;
+}
+.nav-header{
+  font-family: "Caveat-SemiBold";
+  text-align: center;
+  font-size: 3rem;
+}
+.logo-img-footer{
+  width:40px;
+  height:auto; 
+  border-radius: 10px;
+}
+.logo-icon{
+  width:30px;
+  height:auto; 
+  padding-bottom: 5px;  
+ vertical-align: middle;
+}
+@media (max-width: 900px) {
+  .nav-header{
+    font-size: 2rem;
+  }
+}
+.picker{
+  margin-left: -4rem;
+  margin-right: -4rem;
+}
+.slider-container{
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.slider-container h1{
+  text-align: center;
+  color: #493E3F;  
+}
+.slick-slide > div{
+  margin: 0 5px;
+}
+.slick-list{
+  margin: 0 -5px;
+}
+.slider-card{
+  border: 1px solid #fff;
+  background:#736962;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 300px;
+}
+.slider-card-top{
+  height: 85%;
+}
+.slider-card-bottom h2 {
+  font-size: 1.2rem;
+  margin-top: 0.3rem;
+  line-height: 0.5em
+}
+.slider-card-bottom h3 {
+  font-size: 1rem;
+  margin-top: 0;
+  padding-top: 0;
+}
+.slider-card-top > img {
+  width:100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hotel-list-title {
+  color: #493E3F;  
+}
+.hotel-list-filter-bg{
+  background: rgb(198, 195, 199);
+}
+.hotel-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.star-icon {
+  width: 20px;
+}
+.rate {
+  background-color: navy;
+  color:rgb(183, 187, 195);
+  border-radius: 0.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.hotel-card-service {  
+  font-size: 10px;
+}
+.hotel-card-service >img {
+  width: 20px;
+  height: auto;
+  object-fit: cover;
+}
+.hotel-page-container{
+  width: 80%;
+  margin: 0 auto;
+}
+.hotel-page-slide {  
+  height: 60vh;
+}
+.hotel-page-slide-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.room-price{
+  width:100px;
+  background-color:navy;
+  border-radius: 5px;
+  color:rgb(183, 187, 195);
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+.note{
+  font-size: 12px;
+  font-style: italic;
+}
+.reserve-btn{
+  width:150px;
+  background-color:rgb(183, 187, 195);
+  border-radius: 5px;
+  border: 2px solid navy;
+  color: navy;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+.room-slider-container {  
+  margin: 1rem;
+}
+.room-slider-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.reserve-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.reserve-title {
+  color:#756062;
+}
+.btn-reserve-complite {
+  background-color:navy;
+  border-radius: 5px;
+  color:rgb(183, 187, 195);
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+.btn-reserve-cancel {
+  background-color:rgb(118, 45, 45);
+  border-radius: 5px;
+  color: rgb(183, 187, 195);
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.user-card {
+  min-height: 50vh;
+  color: navy;  
+}
+.booking-card {
+  background-color:rgb(227, 221, 229);
+  color: #504344;
+}
+.booking-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }

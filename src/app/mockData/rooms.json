@@ -1,0 +1,36 @@
+[
+    {
+        "_id": "f3872c7a-6df9-48f8-a13e-6c3a341a35a3",
+        "name": "Standart",
+        "hotelId": "6085ebb7-d500-4953-8174-e9a5bfbae033e4r5t",
+        "maxCountGuests": 2,
+        "price": 340,
+        "breakfast": 0,
+        "description": "Size 18 m², BalconyCity view, air conditioning, private bathroom, Flat-screen TV, free WiFi, 3 twin beds, No cribs or extra beds are available. This air conditioned triple room features a private bathroom with a hairdryer. Extras include bed linen and a desk.",
+        "images": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209750810.jpg?k=bba1c730c87bce726f5c0ccd84199a485b4dd679997a367c3e38a0095ae7f8f1&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/113477223.jpg?k=d5fed217fdcdb3267d0890f756ce71a45b7d20a5218b901a31a821ca2ceeb724&o=",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/113477224.jpg?k=e2d953adfd316ceda8a029cbe83c29d81001ecfd7db5b432569a3128605fb749&o=",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/113477225.jpg?k=695f6c4dbe49be123b834813e107476ed704732b40d539a88ad6c4067c752cc2&o=",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/113476699.jpg?k=83631efa1d3a9465ebb614a6d58128ef43a81848e8803ef3adc60082a7eeca78&o="
+        ],
+        "hotelRoomNumbers": [205, 206, 210, 128, 130, 131]
+    },
+    {
+        "_id": "7b61ea01-4806-43e2-8f77-68c05a31d25a",
+        "name": "Deluxe",
+        "hotelId": "6085ebb7-d500-4953-8174-e9a5bfbae033e4r5t",
+        "maxCountGuests": 4,
+        "price": 450,
+        "breakfast": 30,
+        "description": "Room Size 19 m², air conditioning, private bathroom, Flat-screen TV, free WiFi, 2 full beds, very comfy beds. No cribs or extra beds are available.This room offers a seating area and air-conditioning.",
+        "images": [
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/369351694.jpg?k=2505b9e5f746ef1f252a7942605cb7eb5c8bc36d761e16c9237e7cda24f3535a&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/328914893.jpg?k=0317a971c181ad07e6ee390e321724862ff2e38848e192104769227eb1c371e4&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/328914144.jpg?k=1cb1b9963862a5892bb502bc058fe7cb34a12ba3cd2017694e9c8775cc24f542&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/268076621.jpg?k=760a41dd8768f7c315c8170002b16750e04e1691995a78276a239355114ca9f7&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/268074347.jpg?k=82e29ee590823124d695a20a3389939756010d04671e69c30408e5016e5a2158&o=&hp=1"
+        ],
+        "hotelRoomNumbers": [102, 112, 113, 114]
+    }
+]

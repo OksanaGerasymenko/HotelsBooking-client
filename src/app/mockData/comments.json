@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "cf87204a-d972-49d4-bcdb-2418040104ce",
+        "content": "123",
+        "hotelId": "6085ebb7-d500-4953-8174-e9a5bfbae015",
+        "userId": "9cdfe09b-25d8-4653-83fb-913840adec1d"
+    },
+    {
+        "_id": "297c7d20-9dc2-4a70-89f4-e943b6f68e6d",
+        "content": "456",
+        "hotelId": "6085ebb7-d500-4953-8174-e9a5bfbae015",
+        "userId": "246f6235-5880-4c76-8819-37242303af90"
+    }
+]

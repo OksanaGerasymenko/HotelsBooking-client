@@ -1,0 +1,248 @@
+[
+    {
+        "_id": "6085ebb7-d500-4953-8174-e9a5bfbae015",
+        "name": "The Village Inn Hotel",
+        "countryID": "16f4701d-0258-434a-aa69-9b2e9befef8f",
+        "cityID": "fdaf10bd-928d-42c5-a67c-17737e21ec7d",
+        "address": "624 4th Avenue, Sacramento, USA",
+        "discription": "Located in Milwaukee, The Village Inn Hotel has 1-star accommodations with private balconies. Featuring a bar, the 1-star hotel has air-conditioned rooms with free WiFi. Private parking can be arranged at an extra charge.    At the hotel, the rooms are equipped with a desk, a flat-screen TV, a private bathroom, bed linen and towels. All rooms will provide guests with a microwave. Speaking English, Spanish and Hindi, staff are willing to help at the 24-hour front desk. Marquette University is 2.1 km from The Village Inn Hotel, while Miller Park is 2.9 km from the property. The nearest airport is General Mitchell International Airport, 14.5 km from the accommodation.",
+        "rate": 5.8,
+        "stars": 1,
+        "distToCenter": 10.2,
+        "distToAirport": 24.7,
+        "distToRailwayStation": 25.6,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "a6694ecf-ca7f-4686-b78a-e8ff2cdfc9dc",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "6283db0b-d5ed-4e61-816b-0b00e2944022",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2"
+        ],
+        "images": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209750789.jpg?k=30f103f286ed4fb197c4c7f8a923854c0c0a5bca6dc60c5eb8cf9411dc69034c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/223034890.jpg?k=c5eabe9818dee404e815c342056cee7e8ccc3a66ffc078c1c818a4a9a301420b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209750810.jpg?k=bba1c730c87bce726f5c0ccd84199a485b4dd679997a367c3e38a0095ae7f8f1&o=&hp=1"
+        ],
+        "isPopularDestination": true,
+        "isSales": true,
+        "salesPercent": 10
+    },
+    {
+        "_id": "704ac7c8-5072-44e4-a138-01a28b2029b3",
+        "name": "Factors Row I Sextant",
+        "countryID": "16f4701d-0258-434a-aa69-9b2e9befef8f",
+        "cityID": "85d8296f-f01e-4ddf-934c-3c8667404800",
+        "address": "39th Riverd Road, New York, USA",
+        "discription": "Set in New Orleans, Louisiana, 800 metres from Bourbon Street, Factors Row I Sextant boasts a fully-equipped kitchen, 2 flat-screen cable TVs and central air conditioning. World War 2 Museum is 800 metres away. Free WiFi is available throughout the property",
+        "rate": 7.8,
+        "stars": 3,
+        "distToCenter": 24.5,
+        "distToAirport": 55.7,
+        "distToRailwayStation": 0,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "61852802-3266-4df1-883d-56fc9fb96e11"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "images": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269465093.jpg?k=ab7f7d3ce1e65adcd75c7371f1a12ee46720e718264638b76fba2886859b1af7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273009061.jpg?k=80390123024be781026e0ef89f3b6154cfb76eb3503d5d8d9b06138476b4433b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273009011.jpg?k=72fcecc27bf20bf64225c9b06bb18fef6cce9b18c27d9d9c59d2853d6a2051ba&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273009013.jpg?k=af6843eedc7c228de51841d9e9d362083bb16b087a6ec8ee484a3b7f82714a15&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273009015.jpg?k=8ce992834d29517113928cf7d21f493235022b1a3e1f1178b4367eb28c838d36&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273009029.jpg?k=49a7b09be5facc61526a301e8cb1fd318509e421da1662324b3e843e1101de93&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266552455.jpg?k=d5482883ec72ec8adfa16065ce7373de058f20c65e204d3b9e42ad08a76cd16c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273009054.jpg?k=02cedcf71511f041c14b0e26acc0b93d8e153f1ac3412fe2d4cfa7116b0f3801&o=&hp=1"
+        ],
+        "isPopularDestination": true,
+        "isSales": true,
+        "salesPercent": 5
+    },
+    {
+        "_id": "6085ebb7-d500-4953-8174-e9a5bfbae03455",
+        "name": "Chopin Boutique",
+        "countryID": "24080df8-ee04-4b25-8b63-69ae79eceb6f",
+        "cityID": "26864d3b-3903-48f2-8d59-38c0ee242bd7",
+        "address": "Smolna 14, Warsaw, Poland",
+        "discription": "Chopin Boutique is located in the center of Warsaw, just 200 meters from the famous Nowy Świat Street. It offers stylish design rooms with satellite TV. The rooms offer free Wi-Fi",
+        "rate": 8.8,
+        "stars": 3,
+        "distToCenter": 2.4,
+        "distToAirport": 1.5,
+        "distToRailwayStation": 7.6,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "a6694ecf-ca7f-4686-b78a-e8ff2cdfc9dc",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "6283db0b-d5ed-4e61-816b-0b00e2944022",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2"
+        ],
+        "images": [
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/44384699.jpg?k=e270553492ab8d367c7902366eafed2a0c098b85400a88a171a140b691d9d147&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258894990.jpg?k=ab7a4eaae7e46d8e8ce6f299bae06f477fc04b991795f3b328bbcd99042c9c5e&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/258884305.jpg?k=872b0e700dfafbcf0abb632681327a64c076d5f3b17c4ae3b635eb55f082ae41&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/266427016.jpg?k=dc119dafd6ab5ce81b45e185f4c4cd1c1fad799c122ea508a330ff7c6549c4ca&o=&hp=1"
+        ],
+        "isPopularDestination": true,
+        "isSales": true,
+        "salesPercent": 5
+    },
+    {
+        "_id": "6085ebb7-d500-4953-8174-e9a5bfbae03qw778",
+        "name": "GLAM APARTMENTS",
+        "countryID": "24080df8-ee04-4b25-8b63-69ae79eceb6f",
+        "cityID": "26864d3b-3903-48f2-8d59-38c0ee242bd7",
+        "address": "Marszalkowska 84/92, Warsaw, Poland",
+        "discription": "GLAM city center apartment is located in the center of Warsaw, 1.1 km from the Palace of Culture and Science and Złote Tarasy Shopping Centre. Nearby attractions include the National Museum of Warsaw, the Polish Army Museum and the National Art Gallery of Zachęta.",
+        "rate": 8.4,
+        "stars": 4,
+        "distToCenter": 1.5,
+        "distToAirport": 3.3,
+        "distToRailwayStation": 14.8,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "a6694ecf-ca7f-4686-b78a-e8ff2cdfc9dc",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "6283db0b-d5ed-4e61-816b-0b00e2944022",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2"
+        ],
+        "images": [
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/124710326.jpg?k=f8cc94667ef6cde4bece9cadde3e305a7745b78c9ebed1428adba6d9b89f9cfd&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/124190080.jpg?k=ec22e660ec163a66e935934ee07e0d53c7bc3eba8737814ed152eaf3ae76c291&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/297084538.jpg?k=07dd39695e155ca37dade14ee7c3bd1267977fead5f3dd3ef167c0bffbbb2fa4&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/298734955.jpg?k=3b8f315591f24b198da1cf73f292a58ede45fbfacc16eb1733e35364df7915f6&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/124238995.jpg?k=4b71e9628520df71098b57eb81f9c5ee1f7c8de8f096e82bde2a8625ce7a6188&o=&hp=1"
+        ],
+        "isPopularDestination": true,
+        "isSales": true,
+        "salesPercent": 7
+    },
+    {
+        "_id": "6085ebb7-d500-4953-8174-e9a5bfbae033e4r5t",
+        "name": "Wolska Residence I",
+        "countryID": "24080df8-ee04-4b25-8b63-69ae79eceb6f",
+        "cityID": "26864d3b-3903-48f2-8d59-38c0ee242bd7",
+        "address": "Wolska 01-258, Warsaw, Poland",
+        "discription": "Wolska Residence I is located 1.6 km from the Blue City. It features a restaurant, bar and room service. Free WiFi is available on site and private parking is available.",
+        "rate": 8.1,
+        "stars": 3,
+        "distToCenter": 6.5,
+        "distToAirport": 6.0,
+        "distToRailwayStation": 12.3,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "a6694ecf-ca7f-4686-b78a-e8ff2cdfc9dc",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "6283db0b-d5ed-4e61-816b-0b00e2944022",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2"
+        ],
+        "images": [
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/279322653.jpg?k=066108f92c08e857e271774cbff0dc73752b74593fb506058bba6e044e288cf9&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/328914893.jpg?k=0317a971c181ad07e6ee390e321724862ff2e38848e192104769227eb1c371e4&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/305637901.jpg?k=1144cf11ec866d65641d667689af177f860ae04602263986f06b2961aa1e50a6&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/268011705.jpg?k=5d172c3fea72d50bb8e95395350238e0d3bb8912330c383780a439029749bf88&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/267871996.jpg?k=d44bc36ff2ebab330b9a898160eb4690d72258cb8597f5fe54449284c44cd273&o=&hp=1"
+        ],
+        "isPopularDestination": true,
+        "isSales": false,
+        "salesPercent": 0
+    },
+    {
+        "_id": "6085ebb7-d500-4953-8174-e9a5bfbae033gt66",
+        "name": "Row NYC at Times Square",
+        "countryID": "16f4701d-0258-434a-aa69-9b2e9befef8f",
+        "cityID": "85d8296f-f01e-4ddf-934c-3c8667404800",
+        "address": "700 8th Avenue, New York, USA",
+        "discription": "Located in the Theater District, this hotel offers direct views of Times Square. A fitness center and a business center are available for guests. Guests can make use of the concierge service. Rockefeller Center is within walking distance",
+        "rate": 9.4,
+        "stars": 5,
+        "distToCenter": 24.5,
+        "distToAirport": 18.4,
+        "distToRailwayStation": 0,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "a6694ecf-ca7f-4686-b78a-e8ff2cdfc9dc",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "6283db0b-d5ed-4e61-816b-0b00e2944022",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2"
+        ],
+        "images": [
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/27228652.jpg?k=633141f7583e8b6109b6272be90d2eb3edef6b538fd7ad79dceedd6ef80520a7&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/43594565.jpg?k=d416125ea37068dad0d38bacc8aeaa5171834ec128ef19d8358ecb7b7e8d7b8a&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/24926306.jpg?k=389ab22980174b954f1fcd4b5d9e559ec6337444ad8d1a7ca74113eaa74281dc&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/24927336.jpg?k=68e9d5f052fef2e9d017905cb5e61ae2535bbf5456dd08ff9fc24dc39f1ed972&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/27786720.jpg?k=bbeadff6ea4cb8195014d7b50a7bfa3483613e916976e00d70eb5df961146335&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/landmark/max1024/255931.webp?k=4a282f0ce8c36b26c4cf675e6cb1d830f424b8ce1780cc9792e6292f81d7afe4&o="
+        ],
+        "isPopularDestination": true,
+        "isSales": false,
+        "salesPercent": 0
+    },
+    {
+        "_id": "6085ebb7-d500-4953-8174-e9a5bfbae-09oo",
+        "name": "The Wyndham Hotel",
+        "countryID": "16f4701d-0258-434a-aa69-9b2e9befef8f",
+        "cityID": "85d8296f-f01e-4ddf-934c-3c8667404800",
+        "address": "481 Eighth Avenue, New York, USA",
+        "description": "This Art-Deco inspired high-rise hotel offers a midtown location and 24-hour dining. Times Square is less than 0.6 mi from the property and Pen Station is 162 m away. Herald Square with Macy’s flagship store and other shopping destinations is 322 m away.",
+        "rate": 9.1,
+        "stars": 4,
+        "distToCenter": 0.8,
+        "distToAirport": 23.3,
+        "distToRailwayStation": 0,
+        "servicesFree": [
+            "ecc1d9d6-2b6d-4c1b-bd74-13bf5c98153b",
+            "a6694ecf-ca7f-4686-b78a-e8ff2cdfc9dc",
+            "c0837684-e620-45ef-ac94-edb18a1ac7b0",
+            "6283db0b-d5ed-4e61-816b-0b00e2944022",
+            "5d4e4eb2-7347-4257-a2a2-57c223193cbc",
+            "ef5223b1-db97-4bfc-8c7c-c09035463bed"
+        ],
+        "servicesPaid": [
+            "e230d182-aa71-494e-8b8a-dcd2faa7f4f7",
+            "b6cbe788-80b2-4287-8c47-703b879dedc2"
+        ],
+        "images": [
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/83778539.jpg?k=6c3a6f5219ea4d2f89eca9a39bd501dbb4115146a45e200b5d927ceee0bd5e5d&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/53044862.jpg?k=33021d770778ce473fbd2c3d006735e47dbb0de3999a49eff2a70a966607e7a1&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/83778532.jpg?k=c862949d155c335ad281459d5f30856fbcc1c9b8f481df0bcf1130ebdd79d937&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/53044788.jpg?k=26f7a8505697ca9ff96b7aeb1b392a4b97b1b5cbd49a6b777dc186a0026a4619&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/76533579.jpg?k=414ffcc6a8f4aec1d3ad8bd24c7b76bc75c5e7a4032066f962bce5e144cbe23a&o=&hp=1",
+            "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/76533430.jpg?k=86e6a83272438f4a7bd9fa887afdff24f6eb4d0bdb27afcb8d370e9f7b515ca0&o=&hp=1"
+        ],
+        "isPopularDestination": true,
+        "isSales": false,
+        "salesPercent": 0
+    }
+]
